@@ -1,2 +1,2 @@
-# AMS
-Advance Media Streaming 
+# AMS Client
+Advance Media Streaming Client
